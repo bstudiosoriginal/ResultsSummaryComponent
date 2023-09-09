@@ -53,10 +53,9 @@ function App() {
               Summary
             </p>
             {itemlist}
-            {/* <ResultsTableItem textitem='Reaction' percentageitem='80' backgroundcoloritem='hsla(0, 100%, 67%, 0.05)' textcoloritem='hsla(0, 100%, 67%, 1)' logo={reactionLogo}></ResultsTableItem>
-            <ResultsTableItem textitem='Memory' percentageitem='92' backgroundcoloritem='hsla(39, 100%, 56%, 0.05)' textcoloritem='hsla(39, 100%, 56%, 1)' logo={memoryLogo}></ResultsTableItem>
-            <ResultsTableItem textitem='Verbal' percentageitem='61' backgroundcoloritem='hsla(166, 100%, 37%, 0.05)' textcoloritem='hsla(166, 100%, 37%, 1)' logo={verbalLogo}></ResultsTableItem>
-            <ResultsTableItem textitem='Visual' percentageitem='72' backgroundcoloritem='hsla(234, 85%, 45%, 0.05)' textcoloritem='hsl(234, 85%, 45%, 1)' logo={visualLogo}></ResultsTableItem> */}
+            
+            
+            
             
             <button style={{flex: 1, marginTop: '5%', textAlign: 'center', border: 0, borderRadius: '22.5px'}}>
               Continue
